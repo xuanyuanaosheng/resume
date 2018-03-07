@@ -89,6 +89,12 @@
 % defines one's phone
 % usage: \phone{<phone>}
 \newcommand{\phone}[1]{\faPhone\ {#1}}
+% defines one's qq
+% usage: \qq{<qq>}
+\newcommand{\qq}[1]{\faQq\ {#1}}
+% defines one's weixin
+% usage: \weixin{<weixin>}
+\newcommand{\weixin}[1]{\faWeixin\ {#1}}
 % defines one's linkedin
 % usage: \linkedin{<linkedin>}
 \newcommand{\linkedin}[2][]{\faLinkedin\ 
